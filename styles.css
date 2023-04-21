@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
 body{
-	background:skyblue;
+	background:rgb(135,206,235);
 }
 .first-para{
 	background:black;
 	color:white;
 }
 .last-para{
-	color:red;
+	color:rgb(255,0,0);
 }
 li:root{
 	background:red;
