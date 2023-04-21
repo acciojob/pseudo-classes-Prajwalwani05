@@ -7,7 +7,7 @@ body{
 	color:white;
 }
 div{
-	color:red;
+	color:rgb(255,0,0);
 }
 
 li:first-child {
