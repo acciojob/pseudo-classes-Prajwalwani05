@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body{
+	background:skyblue;
+}
+.first-para{
+	background:black;
+	color:white;
+}
+.last-para{
+	color:red;
+}
+li:root{
+	background:red;
+}
+li:first-child {
+    background:white;
+	width:40%;
+}
+li:last-child{
+	background:lightcoral;
+	width:40%;
+}
+li:nth-child(even){
+	background:grey;
+	width:40%;
+}
+li:nth-child(3){
+	background:pink;
+	width:40%;
+}
