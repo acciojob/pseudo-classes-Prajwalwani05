@@ -6,8 +6,8 @@ html{
 	background:black;
 	color:white;
 }
-div{
-	color:red;
+.red{
+	color:rgb(255,0,0);
 }
 
 li:first-child {
