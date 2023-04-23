@@ -15,7 +15,7 @@ li:first-child {
 	width:40%;
 }
 li:last-child{
-	background:lightcoral;
+	background:ghostwhite;
 	width:40%;
 }
 li:nth-child(even){
