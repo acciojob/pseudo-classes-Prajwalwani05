@@ -3,10 +3,10 @@ html{
 	background-color:rgb(135,206,235);
 }
 .first-para{
-	background:black;
+	background:rgb(0 0 0);
 	color:white;
 }
-.red{
+div{
 	color:rgb(255,0,0);
 }
 
