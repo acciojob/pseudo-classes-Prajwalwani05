@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
 body{
-	background:rgb(135,206,235);
+	background-color:rgb(135,206,235);
 }
 .first-para{
 	background:black;
 	color:white;
 }
 div{
-	color:rgb(255,0,0);
+	color:rgb(0,0,0);
 }
 
 li:first-child {
