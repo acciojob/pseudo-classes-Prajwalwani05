@@ -6,20 +6,19 @@ html{
 	background:rgb(0,0,0);
 	color:rgb(255, 255, 255);
 }
-div{
-	color:rgb(0,0,0);
+.last-para{
+	color:red;
 }
-
 li:first-child {
     background:white;
 	width:40%;
 }
 li:last-child{
-	background:ghostwhite;
+	background:white;
 	width:40%;
 }
 li:nth-child(even){
-	background:grey;
+	background-color:slategray;
 	width:40%;
 }
 li:nth-child(3){
